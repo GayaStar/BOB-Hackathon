@@ -36,6 +36,3 @@ The idea can be turned into reality by using concepts of sentiment analysis, per
 - Azure Logic Apps
 - SurveyMonkey API or Qualtrics API
 
----
-
-You can copy this formatted text and paste it into your GitHub README file to make it more presentable.
